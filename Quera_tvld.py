@@ -1,0 +1,5 @@
+inp = list(input())
+saal = "".join(inp[0:2])
+maah = "".join(inp[2:4])
+print("saal:" + saal)
+print("maah:" + maah)
